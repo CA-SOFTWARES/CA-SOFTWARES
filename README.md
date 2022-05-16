@@ -38,7 +38,7 @@ CA is an technolyzed oprating system (tos) for windows, build by CA SOFTWARES Co
 # CA is an open source software and has been licensed under Apache License Version 2.0 since v3.1.1. License information and copyright information can generally be seen at the beginning of the code:
 
 ```
-/* Copyright (c)2022, CA Development Team
+/* Copyright (c) 2022, CA Development Team
  *
  * SPDX-License-Identifier: Apache-2.0
  * ...
