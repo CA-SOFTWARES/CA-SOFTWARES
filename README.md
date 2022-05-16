@@ -39,3 +39,8 @@ CA is an technolyzed oprating system (tos) for windows, build by CA SOFTWARES Co
 ----------------------------------------
 Apache License Version 2.0, January 2004
 ----------------------------------------
+
+# Screenshots
+<img src="https://live.staticflickr.com/65535/52077025781_83f8d5eb0d_h.jpg"/>  
+<hr />
+
