@@ -3,7 +3,7 @@
 <img src="https://live.staticflickr.com/65535/52076051362_6a34284ce4_h.jpg"/>  
 <hr />
 
-CA is an technolyzed oprating system (tos) for windows, build by CA SOFTWARES Company.
+CA is an opean source technolyzed oprating system (tos) for windows, build by CA SOFTWARES.
 
 # Requirements
 -------------
@@ -12,12 +12,12 @@ CA is an technolyzed oprating system (tos) for windows, build by CA SOFTWARES Co
 
 # Installation
 ------------------------------------------------------------------------------------------------------------------------
-1. Download CA SOFTWARES.exe files on your windows operating system.
-2. Now open CA SOFTWARES.exe file and download the zip file (CA SOFTWARES.zip), and extract it.
+1. Download CA SOFTWARES.exe files on your windows operating system from the above.
+2. Now open CA SOFTWARES.exe file, you will redirect to google drive and download CA SOFTWARES.zip file on your operating system.
 3. Now paste the folder on path (C:\Users\Admin\Desktop).
-4. If this path is not there in your system, please first create this folders in your system.
-5. Now open the folder which you have downloaded, and click on setup.py file, it will setup all packages on your system.
-6. Click on Project CA and enjoy this os.
+4. If this path is not there in your operating system, first create it.
+5. Now open folder and click on setup.py file, it will setup abd download all packages to run this operating system on windows.
+6. Click on Project CA and enjoy CA operating system
 ------------------------------------------------------------------------------------------------------------------------
 
 # Why CA ?
