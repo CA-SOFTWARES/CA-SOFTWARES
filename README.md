@@ -1,6 +1,6 @@
 # CA SOFTWARES
 
-<img src="https://user-images.githubusercontent.com/6468571/168199509-54b94ba1-311c-4a0f-aef4-f42be9057e1e.png" />  
+<img src="https://live.staticflickr.com/65535/52077510275_9e99f963ec_m.jpg"/>  
 <hr />
 
 CA is an technolyzed oprating system (tos) for windows, build by CA SOFTWARES Company.
