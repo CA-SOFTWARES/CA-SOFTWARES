@@ -60,7 +60,7 @@ CA is an open source software and has been licensed under Apache License Version
 
 # Authors
 
-1. [Harshil Anuwadia](https://github.com/Harshil-Anuwadia)
+- [Harshil Anuwadia](https://github.com/Harshil-Anuwadia)
 
 # Contribution Guide
 
