@@ -44,6 +44,6 @@ Apache License Version 2.0, January 2004
 <img src="https://live.staticflickr.com/65535/52077025781_83f8d5eb0d_h.jpg"/>  
 <hr />
 
-# Tutorial Videos(https://live.staticflickr.com/video/52077088423/c42a4c6ec2/1080p.mp4?s=eyJpIjo1MjA3NzA4ODQyMywiZSI6MTY1MjY5NTc4NywicyI6IjlhMDk3MTE5ZDc5NDQ2N2Y4Mjc0NWM4ZWQzMjEwNzliMDkxMDRjMDYiLCJ2IjoxfQ)
+# [Tutorial Videos](https://live.staticflickr.com/video/52077088423/c42a4c6ec2/1080p.mp4?s=eyJpIjo1MjA3NzA4ODQyMywiZSI6MTY1MjY5NTc4NywicyI6IjlhMDk3MTE5ZDc5NDQ2N2Y4Mjc0NWM4ZWQzMjEwNzliMDkxMDRjMDYiLCJ2IjoxfQ)
 
 
