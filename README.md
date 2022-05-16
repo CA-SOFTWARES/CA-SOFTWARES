@@ -44,10 +44,6 @@ Apache License Version 2.0, January 2004
 <img src="https://live.staticflickr.com/65535/52077025781_83f8d5eb0d_h.jpg"/>  
 <hr />
 
-
-[User Manual](https://www.rt-thread.io/document/site/rtthread-studio/um/studio-user-manual/) | [Tutorial Videos](https://youtu.be/ucq5eJgZIQg)
-
-RT-Thread Studio IDE (a.k.a. RT-Studio) is a one-stop intergrated development environment built by RT-Thread team. It has a easy-to-use graphical configuration system and a wealth of software packages and components resources. RT-Studio has the features of project creation, configuration and management,as well as code editing, SDK management, build configuration, debugging configuration, program download and debug. We're looking to make the use of RT-Studio as intuitive as possible, reducing the duplication of work and improving the development efficiency.
-
+# Tutorial Videos(https://live.staticflickr.com/video/52077088423/c42a4c6ec2/1080p.mp4?s=eyJpIjo1MjA3NzA4ODQyMywiZSI6MTY1MjY5NTc4NywicyI6IjlhMDk3MTE5ZDc5NDQ2N2Y4Mjc0NWM4ZWQzMjEwNzliMDkxMDRjMDYiLCJ2IjoxfQ)
 
 
