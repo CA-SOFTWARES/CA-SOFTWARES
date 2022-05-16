@@ -1,13 +1,13 @@
-# CA SOFTWARES
+## CA SOFTWARES
 
 CA is an technolyzed oprating system (tos) for windows, build by CA SOFTWARES Company.
 
-Requirements
+# Requirements
 -------------
 1. Windows 8+ 
 -------------
 
-Installation
+# Installation
 ------------------------------------------------------------------------------------------------------------------------
 1. Download CA SOFTWARES.exe files on your windows operating system.
 2. Now open CA SOFTWARES.exe file and download the zip file (CA SOFTWARES.zip), and extract it.
@@ -17,7 +17,7 @@ Installation
 6. Click on Project CA and enjoy this os.
 ------------------------------------------------------------------------------------------------------------------------
 
-Why CA ?
+# Why CA ?
 -------------------------------------------------------------
 1. CA is fully open source technolzed operating system (tos).
 2. CA is fully built by Python.
