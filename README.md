@@ -18,7 +18,7 @@ TOS stand's for technolyzed operating system which mean it does not need any vir
 # Installation
 ------------------------------------------------------------------------------------------------------------------------
 1. Download Installation.exe files on your windows operating system from the above.
-2. Now open Installtion.exe file, you will redirect to google drive and download CA SOFTWARES.zip file on your operating system.
+2. Now open Installation.exe file, you will redirect to google drive and download CA SOFTWARES.zip file on your operating system.
 3. Now paste the folder on path (C:\Users\Admin\Desktop).
 4. If this path is not there in your operating system, first create it.
 5. Now open folder and click on setup.py file, it will setup abd download all packages to run this operating system on windows.
