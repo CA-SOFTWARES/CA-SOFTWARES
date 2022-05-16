@@ -58,6 +58,10 @@ CA is an open source software and has been licensed under Apache License Version
 <img src="https://live.staticflickr.com/65535/52077640260_7ee5408d40_h.jpg"/>  
 <hr />
 
+# Authors
+
+1. [Harshil Anuwadia](https://github.com/Harshil-Anuwadia)
+
 # Contribution Guide
 
 We sincerely thank you for your contribution, and welcome to submit the code through GitHub's fork and Pull Request processes.
