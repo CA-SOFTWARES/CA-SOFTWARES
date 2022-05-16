@@ -11,6 +11,8 @@ TOS stand's for technolyzed operating system which mean it does not need any vir
 # Requirements
 -------------
 1. Windows 8+ 
+2. Ram : 2 Gb +
+3. Disc Storage : 500 Gb +
 -------------
 
 # Installation
