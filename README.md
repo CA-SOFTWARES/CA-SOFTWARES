@@ -15,7 +15,7 @@ TOS stand's for technolyzed operating system which mean it does not need any vir
 3. Disc Storage : 500 Gb +
 -------------
 
-# Installation
+# Installation Guide
 ------------------------------------------------------------------------------------------------------------------------
 1. Download Installation.exe files on your windows operating system from the above.
 2. Now open Installation.exe file, you will redirect to google drive and download CA SOFTWARES.zip file on your operating system.
