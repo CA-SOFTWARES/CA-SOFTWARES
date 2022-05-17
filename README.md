@@ -15,7 +15,7 @@ TOS stand's for technolyzed operating system which mean it does not need any vir
 3. Disc Storage : 500 Gb +
 -------------
 
-# Installation
+# Installation Guide
 ------------------------------------------------------------------------------------------------------------------------
 1. Download Installation.exe files on your windows operating system from the above.
 2. Now open Installation.exe file, you will redirect to google drive and download CA SOFTWARES.zip file on your operating system.
@@ -73,5 +73,6 @@ When you want to correct mistakes in other people's repositories, follow the fol
 - To fork someone else's repository is equivalent to copying someone else's information. Because you can't guarantee that your modification is correct and beneficial to the project, you can't modify it directly in someone else's repository, but first fork it into your own git repository.
 - Clone code to your own PC local, create a new branch, modify bugs or add new features, and then launch pull request to the original repository, so that the original repository manager can see the changes you submitted.
 - The original repository manager reviews this submission and, if correct, merge it into his own project. Merge means merging, merging the part of code you modified into the original repository to add code or replace the original code. So far, the whole Pull Request process is over.
+- [Click here to contribute.](https://github.com/CA-SOFTWARES/Suggest-An-Edit)
 
 
