@@ -52,7 +52,7 @@ CA is an open source software and has been licensed under Apache License Version
 ```
 
 
-# Screenshots | [Tutorial Videos](https://live.staticflickr.com/video/52077088423/c42a4c6ec2/1080p.mp4?s=eyJpIjo1MjA3NzA4ODQyMywiZSI6MTY1Mjc3NTM0MCwicyI6ImIwOTdkYjQ5NDU2NmJhMzAyYjkwMDA1MmY4OGUwNjU2OTcyMjVlMTEiLCJ2IjoxfQ)
+# Screenshots | [Tutorial Video](https://live.staticflickr.com/video/52077088423/c42a4c6ec2/1080p.mp4?s=eyJpIjo1MjA3NzA4ODQyMywiZSI6MTY1Mjc3NTM0MCwicyI6ImIwOTdkYjQ5NDU2NmJhMzAyYjkwMDA1MmY4OGUwNjU2OTcyMjVlMTEiLCJ2IjoxfQ)
 <img src="https://live.staticflickr.com/65535/52077025781_83f8d5eb0d_h.jpg"/>  
 <hr />
 <img src="https://live.staticflickr.com/65535/52077640260_7ee5408d40_h.jpg"/>  
