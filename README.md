@@ -6,7 +6,7 @@
 CA is an open source technolyzed operating system (TOS) for windows, build by CA SOFTWARES.
 
 # What do you mean by technolyzed operating system (TOS) ?
-TOS stand's for technolyzed operating system which mean it does not need any virtual machine to boot the softwares.
+TOS stand's for technolyzed operating system which mean it does not need any virtual machine to boot the software.
 
 # Requirements
 -------------
