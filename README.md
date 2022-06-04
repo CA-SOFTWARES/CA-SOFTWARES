@@ -1,7 +1,6 @@
 #                               CA SOFTWARES
-
-# ![f9087e00-397d-11ea-9cab-1aea419f9448]("https://live.staticflickr.com/65535/52076051362_6a34284ce4_h.jpg")
-
+<img https://live.staticflickr.com/65535/52076051362_6a34284ce4_h.jpg  
+<hr />
 CA is an open source technolyzed operating system (TOS) for windows, build by CA SOFTWARES.
 
 # What do you mean by technolyzed operating system (TOS) ?
