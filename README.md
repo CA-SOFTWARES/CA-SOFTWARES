@@ -1,4 +1,4 @@
-#                               CA SOFTWARES <img src="https://live.staticflickr.com/65535/52077510275_9e99f963ec_m.jpg" width="10" height="10">
+#                               CA SOFTWARES <img src="https://live.staticflickr.com/65535/52077510275_9e99f963ec_m.jpg" width="30" height="30">
 <img src="https://live.staticflickr.com/65535/52076051362_6a34284ce4_h.jpg"/>  
 <hr />
 CA is an open source technolyzed operating system (TOS) for windows, build by CA SOFTWARES.
