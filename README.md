@@ -74,4 +74,22 @@ When you want to correct mistakes in other people's repositories, follow the fol
 - [Click here to contribute.](https://github.com/CA-SOFTWARES/Suggest-An-Edit)
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content=
+	"width=device-width, initial-scale=1.0">
+	<title>Text Animation</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+	<div class="row">
+		<span class="text1">Hello!</span>
+		<span class="text2">GeeksforGeeks</span>
+	</div>
+	</div>
+</body>
+</html>
 
