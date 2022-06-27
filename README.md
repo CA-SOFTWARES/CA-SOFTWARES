@@ -74,4 +74,6 @@ When you want to correct mistakes in other people's repositories, follow the fol
 - [Click here to contribute.](https://github.com/CA-SOFTWARES/Suggest-An-Edit)
 
 
-<img src="//live.staticflickr.com/65535/52077510275_9e99f963ec_m.jpg">
+
+<img src="live.staticflickr.com/65535/52077510275_9e99f963ec_m.jpg"/>  
+<hr />
