@@ -39,7 +39,7 @@ TOS stand's for technolyzed operating system which mean it does not need any vir
 -------------------------------------------------------
 
 # License
-CA is an open source software and has been licensed under Apache License Version 2.0 since v3.1.1. License information and copyright information can generally be seen at the beginning of the code:
+CA software has been licensed under Apache License Version 2.0 since v3.1.1. License information and copyright information can generally be seen at the beginning of the code:
 
 ```
 /* Copyright (c) 2022, CA Development Team
