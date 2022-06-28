@@ -1,7 +1,7 @@
 #     CA SOFTWARES <img src="https://live.staticflickr.com/65535/52077510275_9e99f963ec_m.jpg" width="23" height="23">
 <img src="https://live.staticflickr.com/65535/52076051362_6a34284ce4_h.jpg"/>
 <hr />
-CA is an open source technolyzed operating system (TOS) for windows, build by CA SOFTWARES.
+CA is an technolyzed operating system (TOS) for windows, build by CA SOFTWARES.
 
 # What do you mean by technolyzed operating system (TOS) ?
 TOS stand's for technolyzed operating system which mean it does not need any virtual machine to boot the software.
@@ -25,7 +25,7 @@ TOS stand's for technolyzed operating system which mean it does not need any vir
 
 # Why CA ?
 -------------------------------------------------------------
-1. CA is fully open source technolzed operating system (tos).
+1. CA is fully technolzed operating system (tos).
 2. CA is fully built by Python.
 3. CA does not require any virtual machine to boot.
 4. CA does not require any high specialized pc to run.
