@@ -71,6 +71,5 @@ When you want to correct mistakes in other people's repositories, follow the fol
 - To fork someone else's repository is equivalent to copying someone else's information. Because you can't guarantee that your modification is correct and beneficial to the project, you can't modify it directly in someone else's repository, but first fork it into your own git repository.
 - Clone code to your own PC local, create a new branch, modify bugs or add new features, and then launch pull request to the original repository, so that the original repository manager can see the changes you submitted.
 - The original repository manager reviews this submission and, if correct, merge it into his own project. Merge means merging, merging the part of code you modified into the original repository to add code or replace the original code. So far, the whole Pull Request process is over.
-- [Click here to contribute.](https://github.com/CA-SOFTWARES/Suggest-An-Edit)
 
 
