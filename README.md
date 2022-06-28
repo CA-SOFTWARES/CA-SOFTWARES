@@ -50,7 +50,7 @@ CA software has been licensed under Apache License Version 2.0 since v3.1.1. Lic
 ```
 
 
-# Screenshots | [Tutorial Video](https://live.staticflickr.com/video/52077088423/c42a4c6ec2/1080p.mp4?s=eyJpIjo1MjA3NzA4ODQyMywiZSI6MTY1NjMzNTIxOCwicyI6IjYyNTY3YzQ2ZTRiNDM3YTU2YzNkNDhmMmU4ODEzMjNmNmVjYTJmZjYiLCJ2IjoxfQ)
+# Screenshots 
 <img src="https://live.staticflickr.com/65535/52077025781_83f8d5eb0d_h.jpg"/>  
 <hr />
 <img src="https://live.staticflickr.com/65535/52077640260_7ee5408d40_h.jpg"/>  
